@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "barter.database.backup.dir",
+      "type": "java.lang.String",
+      "description": "Description for barter.database.backup.dir."
+    },
+    {
+      "name": "barter.upload.photo.sufix",
+      "type": "java.lang.String",
+      "description": "Description for barter.upload.photo.sufix."
+    }
+  ] }

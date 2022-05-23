@@ -1,0 +1,5 @@
+Patient Name:admin
+Patient sex:1
+Patient age:58
+Patient mecdical_records:
+i have a digestive disease, i didn't eat meal for one day!
